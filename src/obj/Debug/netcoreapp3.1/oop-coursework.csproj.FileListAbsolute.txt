@@ -1,0 +1,11 @@
+C:\Users\cnklo\OneDrive\Рабочий стол\projects\oop-coursework\bin\Debug\netcoreapp3.1\oop-coursework.exe
+C:\Users\cnklo\OneDrive\Рабочий стол\projects\oop-coursework\bin\Debug\netcoreapp3.1\oop-coursework.deps.json
+C:\Users\cnklo\OneDrive\Рабочий стол\projects\oop-coursework\bin\Debug\netcoreapp3.1\oop-coursework.runtimeconfig.json
+C:\Users\cnklo\OneDrive\Рабочий стол\projects\oop-coursework\bin\Debug\netcoreapp3.1\oop-coursework.runtimeconfig.dev.json
+C:\Users\cnklo\OneDrive\Рабочий стол\projects\oop-coursework\bin\Debug\netcoreapp3.1\oop-coursework.dll
+C:\Users\cnklo\OneDrive\Рабочий стол\projects\oop-coursework\bin\Debug\netcoreapp3.1\oop-coursework.pdb
+C:\Users\cnklo\OneDrive\Рабочий стол\projects\oop-coursework\obj\Debug\netcoreapp3.1\oop-coursework.csprojAssemblyReference.cache
+C:\Users\cnklo\OneDrive\Рабочий стол\projects\oop-coursework\obj\Debug\netcoreapp3.1\oop-coursework.AssemblyInfoInputs.cache
+C:\Users\cnklo\OneDrive\Рабочий стол\projects\oop-coursework\obj\Debug\netcoreapp3.1\oop-coursework.AssemblyInfo.cs
+C:\Users\cnklo\OneDrive\Рабочий стол\projects\oop-coursework\obj\Debug\netcoreapp3.1\oop-coursework.dll
+C:\Users\cnklo\OneDrive\Рабочий стол\projects\oop-coursework\obj\Debug\netcoreapp3.1\oop-coursework.pdb
